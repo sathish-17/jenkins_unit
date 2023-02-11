@@ -1,4 +1,4 @@
-#new commit main 1235 with hooks
+#new commit main 1235 with hooks tried adding git-hub hooks
 def ad(a,b):
     if a<b:
         c = a+b
